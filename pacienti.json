@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "nume": "Popescu",
+        "prenume": "Ion",
+        "data_nasterii": "2000-12-11",
+        "alergii": [
+            "polen"
+        ],
+        "istoric_diagnostic": [
+            "gripa"
+        ]
+    },
+    {
+        "id": 102,
+        "nume": "Mihai",
+        "prenume": "Andrei",
+        "data_nasterii": "1992-09-14",
+        "alergii": [],
+        "istoric_diagnostic": [
+            "febra"
+        ]
+    },
+    {
+        "id": 103,
+        "nume": "Andrei",
+        "prenume": "Andrei",
+        "data_nasterii": "1999-11-19",
+        "alergii": [],
+        "istoric_diagnostic": []
+    }
+]

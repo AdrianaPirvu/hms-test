@@ -1,0 +1,20 @@
+[
+    {
+        "denumire": "Paracetamol",
+        "substanta_activa": "",
+        "concentratie": "100mg",
+        "forma": "Tabletă",
+        "cantitate": -11,
+        "data_expirare": "2020-10-21",
+        "regim_special": false
+    
+    {
+        "denumire": "Paracetamol",
+        "substanta_activa": "",
+        "concentratie": "100mg",
+        "forma": "Capsulă",
+        "cantitate": 20,
+        "data_expirare": "2021-12-12",
+        "regim_special": false
+    }
+]
