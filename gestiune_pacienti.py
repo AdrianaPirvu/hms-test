@@ -52,7 +52,7 @@ def genereaza_id_unic(lista_pacienti):
     if not lista_pacienti:
         return 101  # Pornim de la ID-ul 101
     # Luăm cel mai mare ID existent și adăugăm 1
-    return max(pacient["id"] for pacient in lista_pacienti) + 2
+    return max(pacient["id"] for pacient in lista_pacienti) + 1
 
 
 def valideaza_data(data_str):
