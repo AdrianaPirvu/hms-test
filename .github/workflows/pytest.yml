@@ -26,4 +26,4 @@ jobs:
 
     - name: Ruleaza testele cu Pytest
       run: |
-        pytest -v
+        pytest -v 
